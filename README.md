@@ -1,4 +1,6 @@
 # EDA-Student-Data-Analysis
+You can view the live demo here at: https://www.kaggle.com/code/samruddhi4040/eda-students-data-analysis
+
 This is an EDA on student's data score.                                      
 The dataset contains rows such as ID, class, gender, race, GPA,	Algebra, Calculus1,	Calculus2, Statistics, Probability,	Measure, functional analysis.                   
 The data was checked out on for:                                  
